@@ -60,6 +60,7 @@ Plug 'tpope/vim-unimpaired'
 Plug 'pangloss/vim-javascript'
 
 Plug 'elixir-lang/vim-elixir'
+Plug 'fatih/vim-go' " Run :GoInstallBinaries (https://github.com/fatih/vim-go/blob/master/README.md)
 
 filetype plugin indent on                   " required!
 call plug#end()
